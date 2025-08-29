@@ -18,3 +18,9 @@ About Me
 🚀 Working on projects, research & placements prep
 
 🌱 Passionate about open-source & real-world problem solving
+
+
+🛠️ Languages & Tools
+
+<p align="center"> <!-- Programming --> <img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,mongodb" /> <!-- AI/ML --> <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" /> <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" /> <!-- Tools --> <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,jupyter" /> </p>
+
