@@ -11,7 +11,6 @@ About Me
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=B.Tech+in+AIML;AI+%7C+ML+%7C+Deep+Learning;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" /> </p>
 
-🎓 B.Tech in Artificial Intelligence & Machine Learning (AIML)
 
 💡 Interested in AI, ML, DL, NLP, and Cloud
 
@@ -19,11 +18,3 @@ About Me
 
 🌱 Passionate about open-source & real-world problem solving
 
-
-
-🛠️ Languages & Tools
-👨‍💻 Programming & Web Development
-<p align="center"> <img src="https://skillicons.dev/icons?i=c,java,python,html,css,javascript,react,nodejs,mysql" /> </p>
-
-⚙️ Tools
-<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode" /> </p>
