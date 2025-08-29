@@ -22,4 +22,4 @@ About Me
 
 
 🛠️ Languages & Tools
-<p align="center"> <!-- Programming Languages --> <img src="https://skillicons.dev/icons?i=c,java,python" /> <!-- Web Development --> <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mysql" /> <!-- Tools --> <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" /> </p>
+<p align="center"> <!-- Programming Languages --> <img src="https://skillicons.dev/icons?i=c,java,python" /> <!-- Web Development --> <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mysql" /> <!-- Tools --> <img src="https://skillicons.dev/icons?i=git,github,vscode" /> </p>
