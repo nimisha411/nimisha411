@@ -20,7 +20,6 @@ About Me
 🌱 Passionate about open-source & real-world problem solving
 
 
+
 🛠️ Languages & Tools
-
-<p align="center"> <!-- Programming --> <img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,mongodb" /> <!-- AI/ML --> <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" /> <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" /> <!-- Tools --> <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,jupyter" /> </p>
-
+<p align="center"> <!-- Programming Languages --> <img src="https://skillicons.dev/icons?i=c,java,python" /> <!-- Web Development --> <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mysql" /> <!-- Tools --> <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" /> </p>
