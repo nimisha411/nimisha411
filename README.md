@@ -20,10 +20,8 @@ About Me
 🌱 Passionate about open-source & real-world problem solving
 
 
-
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" height="160"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" height="160"/> </p>
-
+🤝 Connect with Me
+<p align="center"> <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://leetcode.com/your-link"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a> <a href="https://kaggle.com/your-link"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a> <a href="https://your-portfolio-link"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a> </p>
 
 
 
