@@ -18,11 +18,9 @@ About Me
 🌱 Passionate about open-source & real-world problem solving
 
 
-  Languages & Tools
-
 
 👨‍💻 Programming & Web Development Tools
-<p align="center"> <img src="https://skillicons.dev/icons?i=c,java,python,html,css,javascript,react,nodejs,express,mysql,aws" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=c,java,python,html,css,javascript,react,nodejs,mysql,aws" /> </p>
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode" /> </p>
 
