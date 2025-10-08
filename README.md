@@ -18,7 +18,7 @@ About Me
 🌱 Passionate about open-source & real-world problem solving
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" height="160"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" height="160"/> </p>
+
 
 
 
