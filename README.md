@@ -7,7 +7,7 @@ Hi there! I'm **Nimisha Mali**, a passionate Final Year B.Tech student specializ
 💻 I enjoy building projects that make a difference, learning new technologies, and contributing to the developer community.
 
   
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
 
