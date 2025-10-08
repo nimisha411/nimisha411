@@ -19,7 +19,8 @@ About Me
 
 
 
-<p align="center"> <img src="https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/> </p>
+Languages & Tools
+<p align="center"> <!-- Programming --> <img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,mongodb" /> <!-- AI/ML --> <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" /> <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" /> <!-- Tools --> <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,jupyter" /> </p>
 
 
 
