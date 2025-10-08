@@ -19,8 +19,13 @@ About Me
 
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" height="160"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" height="160"/> </p>
-
+  Languages & Tools
+👨‍💻 Programming & Web Development
+<p align="center"> <img src="https://skillicons.dev/icons?i=c,java,python,html,css,javascript,react,nodejs,express,mysql" /> </p>
+⚙️ Tools
+<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode" /> </p>
+📚 Currently Learning
+<p align="center"> <img src="https://skillicons.dev/icons?i=nextjs,docker,aws,tensorflow,pytorch,jupyter" /> </p>
 
 
 
