@@ -19,8 +19,7 @@ About Me
 
 
 
-Languages & Tools
-<p align="center"> <!-- Programming --> <img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,mongodb" /> <!-- AI/ML --> <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" /> <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" /> <!-- Tools --> <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,jupyter" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" height="160"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" height="160"/> </p>
 
 
 
