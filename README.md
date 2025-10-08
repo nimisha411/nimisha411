@@ -18,14 +18,14 @@ About Me
 🌱 Passionate about open-source & real-world problem solving
 
 
-
   Languages & Tools
+
+
 👨‍💻 Programming & Web Development
-<p align="center"> <img src="https://skillicons.dev/icons?i=c,java,python,html,css,javascript,react,nodejs,express,mysql" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=c,java,python,html,css,javascript,react,nodejs,express,mysql,jupyter,aws" /> </p>
 ⚙️ Tools
 <p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode" /> </p>
-📚 Currently Learning
-<p align="center"> <img src="https://skillicons.dev/icons?i=nextjs,docker,aws,tensorflow,pytorch,jupyter" /> </p>
+
 
 
 
