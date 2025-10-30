@@ -23,7 +23,7 @@ About Me
 
 
 
-👨‍💻 Programming & Web Development Tools
+👨‍💻 Programming & Web Development Tools-
 <p align="center"> <img src="https://skillicons.dev/icons?i=c,java,python,html,css,javascript,react,nodejs,mysql,aws" /> </p>
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode" /> </p>
